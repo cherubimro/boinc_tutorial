@@ -39,3 +39,4 @@ temp/
 *.key
 secrets/
 .env
+src/simpleAxbMC
