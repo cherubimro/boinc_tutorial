@@ -520,6 +520,7 @@ After completing this tutorial, students will understand:
 ### Ideas for Student Projects
 
 1. **Different Applications**
+   - **Ax=b Monte Carlo Solver** - Solve linear systems using Ulam-von Neumann method (see [docs/AXB_MONTECARLO.md](docs/AXB_MONTECARLO.md))
    - Mandelbrot set generation
    - Prime number search
    - Protein folding simulation
