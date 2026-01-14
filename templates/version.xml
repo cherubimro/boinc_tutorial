@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+    BOINC Application Version Descriptor for PI Computation
+
+    This file must be placed in:
+    ~/boinc_test/projects/apps/pi_compute/1.0/x86_64-pc-linux-gnu/version.xml
+
+    It tells BOINC about the executable for this platform.
+-->
+<version>
+    <file>
+        <physical_name>pi_compute_1.0_x86_64-pc-linux-gnu</physical_name>
+        <main_program/>
+    </file>
+</version>

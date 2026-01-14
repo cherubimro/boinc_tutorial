@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+    BOINC Application Configuration File (Example)
+
+    This file can be used by clients to configure local application settings.
+    Place this in the project directory on the client side.
+
+    For educational purposes, this shows optional configurations.
+-->
+<app_config>
+    <app>
+        <name>pi_compute</name>
+        <!-- Use at most 1 CPU core -->
+        <max_concurrent>1</max_concurrent>
+    </app>
+</app_config>

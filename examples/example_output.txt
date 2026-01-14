@@ -1,0 +1,25 @@
+PI Computation Results
+======================
+Total iterations: 1000000000
+Estimated value of PI: 3.141598437284653
+Error from actual PI: 0.000005783705340
+Accuracy: 99.9999815912%
+
+This is an example output from the PI computation application.
+The actual results will vary slightly due to the random nature
+of the Monte Carlo method.
+
+With 1 billion iterations, you can typically expect:
+- Accuracy within 0.0001 of the true value
+- 4-6 decimal places of precision
+- Computation time of 30-60 seconds on modern CPUs
+
+The exact value you get will differ because:
+1. Random number seeding uses /dev/urandom (cryptographically random)
+2. Monte Carlo method is inherently probabilistic
+3. Each run samples different random points
+
+Cross-validation note:
+In a BOINC setup, 3 different clients will compute the same work unit
+and produce 3 slightly different PI values. This is EXPECTED and proves
+that random seeding is working correctly.

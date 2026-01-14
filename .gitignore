@@ -1,0 +1,41 @@
+# Compiled files
+*.o
+*.so
+*.a
+*.pyc
+__pycache__/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# BOINC-specific
+*.result
+*.wu
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+tmp/
+temp/
+
+# Database files
+*.db
+
+# Credentials and secrets
+*.pem
+*.key
+secrets/
+.env

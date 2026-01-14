@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<project_config>
+    <name>pi_test</name>
+    <master_url>http://127.0.0.1/pi_test/</master_url>
+    <web_rpc_url_base>http://127.0.0.1/pi_test/</web_rpc_url_base>
+    <scheduler>http://127.0.0.1/pi_test_cgi/cgi</scheduler>
+    <min_passwd_length>6</min_passwd_length>
+    <account_manager>0</account_manager>
+    <uses_username>0</uses_username>
+</project_config>

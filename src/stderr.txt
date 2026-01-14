@@ -1,0 +1,11 @@
+21:07:18 (15756): Can't open init data file - running in standalone mode
+APP: PI Computation started
+APP: input file read successfully. Iterations: 10000000
+APP: starting computation from beginning with seed 1819183343
+APP: computation complete
+APP: Points in circle: 7851819
+APP: Total points: 10000000
+APP: Estimated PI: 3.140727600000000
+APP: output file written successfully
+APP: computation completed successfully
+21:07:19 (15756): called boinc_finish(0)
